@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS suggestions;
+DROP TABLE IF EXISTS complaints;
+DROP TABLE IF EXISTS apps;
